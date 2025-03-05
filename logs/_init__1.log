@@ -1,0 +1,31 @@
+[INFO ] 2025-03-05 09:38:03.863 - com.utility.CustomLogger:startTestCase 17==>  Execution Started : _init_
+[INFO ] 2025-03-05 09:38:05.945 - com.stepDefinition.FlipkartSteps:userOpenTheUrlOfFlipkartApplication 37==>  Launching browser
+[INFO ] 2025-03-05 09:38:12.258 - com.stepDefinition.FlipkartSteps:userOpenTheUrlOfFlipkartApplication 40==>  User is navigated successfully to the Flipkart Page..!!
+[INFO ] 2025-03-05 09:38:12.264 - com.stepDefinition.FlipkartSteps:userSearchesForInTheSearchBar 51==>  User trying to click and Enter the Product Name..!!
+[INFO ] 2025-03-05 09:38:20.210 - com.stepDefinition.FlipkartSteps:userSearchesForInTheSearchBar 53==>  User successfully search the Product Name.
+[INFO ] 2025-03-05 09:38:20.212 - com.stepDefinition.FlipkartSteps:userAddsInTheCart 58==>  User trying select Product ..!!
+[INFO ] 2025-03-05 09:38:24.447 - com.pages.FlipkartPage:addProductInToTheCard 71==>  originalWindow :70A0C24F64A547F2A7D50D7445974FA9
+[INFO ] 2025-03-05 09:38:24.452 - com.pages.FlipkartPage:addProductInToTheCard 75==>  newWindow :A7C2DCC97807361C92519DBD4AA5AFD4
+[INFO ] 2025-03-05 09:38:34.672 - com.stepDefinition.FlipkartSteps:userVerifyThatProductAddedInTheCart 64==>  User Verifying Product added to cart ..!!
+[INFO ] 2025-03-05 09:38:34.782 - com.stepDefinition.FlipkartSteps:userVerifyThatProductAddedInTheCart 66==>  User Verified Product successfully added to cart ..!!
+[INFO ] 2025-03-05 09:53:45.012 - com.utility.CustomLogger:startTestCase 17==>  Execution Started : _init_
+[INFO ] 2025-03-05 09:53:47.941 - com.stepDefinition.FlipkartSteps:userOpenTheUrlOfFlipkartApplication 37==>  Launching browser
+[INFO ] 2025-03-05 09:53:54.686 - com.stepDefinition.FlipkartSteps:userOpenTheUrlOfFlipkartApplication 40==>  User is navigated successfully to the Flipkart Page..!!
+[INFO ] 2025-03-05 09:53:54.692 - com.stepDefinition.FlipkartSteps:userSearchesForInTheSearchBar 47==>  User trying to click and Enter the Product Name..!!
+[INFO ] 2025-03-05 09:54:04.066 - com.stepDefinition.FlipkartSteps:userSearchesForInTheSearchBar 49==>  User successfully search the Product Name.
+[INFO ] 2025-03-05 09:54:04.068 - com.stepDefinition.FlipkartSteps:userAddsInTheCart 54==>  User trying select Product ..!!
+[INFO ] 2025-03-05 09:54:08.439 - com.pages.FlipkartPage:addProductInToTheCard 58==>  originalWindow :E8CCED444AF42451297DE528153E51FB
+[INFO ] 2025-03-05 09:54:08.440 - com.pages.FlipkartPage:addProductInToTheCard 62==>  newWindow :E6B6F34937BB087ECE7966A9F032CC8D
+[INFO ] 2025-03-05 09:54:18.636 - com.stepDefinition.FlipkartSteps:userVerifyThatProductAddedInTheCart 60==>  User Verifying Product added to cart ..!!
+[INFO ] 2025-03-05 09:54:18.795 - com.stepDefinition.FlipkartSteps:userVerifyThatProductAddedInTheCart 62==>  User Verified Product successfully added to cart ..!!
+[INFO ] 2025-03-05 09:56:07.847 - com.utility.CustomLogger:startTestCase 17==>  Execution Started : _init_
+[INFO ] 2025-03-05 11:15:33.015 - com.utility.CustomLogger:startTestCase 17==>  Execution Started : _init_
+[INFO ] 2025-03-05 11:15:36.082 - com.stepDefinition.FlipkartSteps:userOpenTheUrlOfFlipkartApplication 37==>  Launching browser
+[INFO ] 2025-03-05 11:15:42.470 - com.stepDefinition.FlipkartSteps:userOpenTheUrlOfFlipkartApplication 40==>  User is navigated successfully to the Flipkart Page..!!
+[INFO ] 2025-03-05 11:15:42.480 - com.stepDefinition.FlipkartSteps:userSearchesForInTheSearchBar 47==>  User trying to click and Enter the Product Name..!!
+[INFO ] 2025-03-05 11:15:50.450 - com.stepDefinition.FlipkartSteps:userSearchesForInTheSearchBar 49==>  User successfully search the Product Name.
+[INFO ] 2025-03-05 11:15:50.450 - com.stepDefinition.FlipkartSteps:userAddsInTheCart 54==>  User trying select Product ..!!
+[INFO ] 2025-03-05 11:15:54.588 - com.pages.FlipkartPage:addProductInToTheCard 58==>  originalWindow :3F0D11B7D9C27EC912F62029D12BBF1D
+[INFO ] 2025-03-05 11:15:54.589 - com.pages.FlipkartPage:addProductInToTheCard 62==>  newWindow :AFB8D37BA08A4ED2F2B3A43EFF20AA97
+[INFO ] 2025-03-05 11:16:04.699 - com.stepDefinition.FlipkartSteps:userVerifyThatProductAddedInTheCart 60==>  User Verifying Product added to cart ..!!
+[INFO ] 2025-03-05 11:16:04.757 - com.stepDefinition.FlipkartSteps:userVerifyThatProductAddedInTheCart 62==>  User Verified Product successfully added to cart ..!!
